@@ -1,0 +1,5 @@
+applications:
+- name: Swiggy_Service
+  path: target/swiggy-service-0.1.0.jar
+  Main-Class: com.start.springboot.StartBootApplication
+  memory: 512M

@@ -1,0 +1,6 @@
+com\chaitu\swiggy\service\MenuItem.class
+com\start\springboot\IndexController.class
+com\start\springboot\StartBootApplication.class
+com\chaitu\swiggy\service\MenuService.class
+com\chaitu\swiggy\service\MenuItemRepository.class
+com\chaitu\swiggy\service\MenuRestWS.class
